@@ -40,7 +40,7 @@ While this guide is created with [Arch Linux](https://archlinux.org/) in mind, i
     ```
 2. Navigate to the installer directory:
     ```
-    cd ~/simple-hyprland/scripts/installer
+    cd ~/hyprland-dotfiles/scripts/installer
     ```
 3. Run the installation script with sudo:
     ```
