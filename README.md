@@ -36,7 +36,7 @@ While this guide is created with [Arch Linux](https://archlinux.org/) in mind, i
 
 1. Clone the repository to your home folder:
     ```
-    git clone https://github.com/gaurav23b/simple-hyprland.git ~/simple-hyprland
+    git clone https://github.com/rjcast180/hyprland-dotfiles.git ~/hyprland-dotfiles
     ```
 2. Navigate to the installer directory:
     ```
